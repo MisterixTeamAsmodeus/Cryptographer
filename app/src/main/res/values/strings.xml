@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Cryptographer</string>
+    <string name="hint_input_text">Введите текст</string>
+    <string name="hint_input_params_caeser">Введите сдвиг</string>
+    <string name="result_text">Результат :</string>
+    <string name="hint_input_params_vigener">Введите слово</string>
+    <string name="hint_input_params_num">Введите число</string>
+    <string-array name="Cipher">
+        <item>Шифр Атбаша</item>
+        <item>Шифр Вернама</item>
+        <item>Шифр Виженера</item>
+        <item>Шифр Цезаря</item>
+        <item>Азбука Морзе</item>
+        <item>Бинарный код</item>
+        <item>Шифрование ключом</item>
+    </string-array>
+</resources>
